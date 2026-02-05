@@ -1,0 +1,16 @@
+# 忽略下载的 skill 文件夹
+# 这些是通过 install.ps1 / install.sh 动态下载的
+skill-*/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志
+*.log

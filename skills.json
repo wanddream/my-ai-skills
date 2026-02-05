@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "description": "YYCLink AI Skills 配置文件",
+  "author": "YYCLink",
+  "skills": [
+    {
+      "name": "skill-miniprogram-ecosystem",
+      "description": "小程序开发生态 - 微信/抖音/支付宝小程序开发指南",
+      "repository": "https://gitee.com/cheng-yanlin/skill-miniprogram-ecosystem.git",
+      "raw_skill_url": "https://gitee.com/cheng-yanlin/skill-miniprogram-ecosystem/raw/main/SKILL.md",
+      "tags": ["小程序", "微信", "抖音", "支付宝", "云开发"],
+      "status": "active"
+    },
+    {
+      "name": "skill-thesis-writer",
+      "description": "论文写作助手 - 学术论文写作指导",
+      "repository": "https://gitee.com/cheng-yanlin/skill-thesis-writer.git",
+      "raw_skill_url": "https://gitee.com/cheng-yanlin/skill-thesis-writer/raw/main/SKILL.md",
+      "tags": ["论文", "学术", "写作"],
+      "status": "active"
+    }
+  ]
+}
