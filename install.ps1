@@ -10,6 +10,10 @@ $repos = @(
     @{
         name = "skill-thesis-writer"
         url  = "https://github.com/wanddream/skill-thesis-writer.git"
+    },
+    @{
+        name = "skill-product-manager"
+        url  = "https://github.com/wanddream/skill-product-manager.git"
     }
     # Add more skills by copying the block above:
     # ,@{

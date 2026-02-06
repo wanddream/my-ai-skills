@@ -10,6 +10,7 @@ YYCLink 的个人 AI Skill 集合，用于 Claude Code 等 AI 编程助手。
 |-------|------|----------|--------|
 | skill-miniprogram-ecosystem | 小程序开发生态 | 微信/抖音/支付宝小程序开发 | [GitHub](https://github.com/wanddream/skill-miniprogram-ecosystem) |
 | skill-thesis-writer | 论文写作助手 | 学术论文写作 | [GitHub](https://github.com/wanddream/skill-thesis-writer) |
+| skill-product-manager | 产品经理拷打 | 产品方案评审/从0到1打磨 | [GitHub](https://github.com/wanddream/skill-product-manager) |
 
 ## 🚀 快速开始
 
@@ -36,6 +37,9 @@ git clone https://github.com/wanddream/skill-miniprogram-ecosystem.git
 
 # 论文写作助手
 git clone https://github.com/wanddream/skill-thesis-writer.git
+
+# 产品经理拷打
+git clone https://github.com/wanddream/skill-product-manager.git
 ```
 
 ### 方式三：让 AI 读取远程 SKILL.md
@@ -54,7 +58,8 @@ YYCLink-Skills/
 ├── run.bat                # 双击运行入口
 ├── .gitignore             # 忽略下载的 skill-*/ 文件夹
 ├── skill-miniprogram-ecosystem/   # 小程序技能（下载后）
-└── skill-thesis-writer/           # 论文技能（下载后）
+├── skill-thesis-writer/           # 论文技能（下载后）
+└── skill-product-manager/         # 产品经理拷打（下载后）
 ```
 
 ## 🔄 更新所有 Skills
